@@ -1,0 +1,784 @@
+/* Poppins */
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-Black.ttf);
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-BlackItalic.ttf);
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-Bold.ttf);
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-BoldItalic.ttf);
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-ExtraBold.ttf);
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-ExtraBoldItalic.ttf);
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-ExtraLight.ttf);
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-ExtraLightItalic.ttf);
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-Italic.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-Light.ttf);
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-LightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-Medium.ttf);
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-MediumItalic.ttf);
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-Regular.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-SemiBold.ttf);
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-SemiBoldItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-Thin.ttf);
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins/Poppins-ThinItalic.ttf);
+    font-weight: 100;
+    font-style: italic;
+}
+
+/* Nunito */
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-Black.ttf);
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-BlackItalic.ttf);
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-Bold.ttf);
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-BoldItalic.ttf);
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-ExtraBold.ttf);
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-ExtraBoldItalic.ttf);
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-ExtraLight.ttf);
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-ExtraLightItalic.ttf);
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-Italic.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-Light.ttf);
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-LightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-Medium.ttf);
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-MediumItalic.ttf);
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-Regular.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-SemiBold.ttf);
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito/Nunito-SemiBoldItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+
+* {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-style: normal;
+    color: #232631;
+}
+
+body {
+    background: #FAFAFA;
+}
+
+.text-card-one {
+    color: #5A4FCF !important;
+    font-size: 18px;
+}
+
+.text-card-one-expert {
+    font-size: 32px;
+}
+
+/* custom css */
+#logo-name {
+    font-family: 'Nunito';
+    font-size: 20pt;
+    font-weight: 800;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+input.search-icon {
+    display: block;
+    padding: 9px 4px 9px 40px;
+    background: transparent url(../img/Search.png) no-repeat 13px center;
+    border-radius: 12px;
+    width: 322px;
+    height: 56px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 28px;
+    gap: 10px;
+    outline: 0px !important;
+    box-shadow: none !important;
+}
+
+.btn-login {
+    /* background: rgba(90, 79, 207, 0.1); */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 28px;
+    gap: 10px;
+
+    width: 110px;
+    height: 56px;
+
+    background: rgba(90, 79, 207, 0.1);
+    border-radius: 12px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12pt;
+    line-height: 24px;
+    color: #5A4FCF;
+}
+
+.nav-link {
+    font-weight: 500 !important;
+    font-size: 12pt !important;
+}
+
+.card {
+    border: none;
+    border-radius: 20px;
+}
+
+.card-section-one {
+    width: 295px;
+}
+
+.card-one {
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.11));
+}
+
+.card-title {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.card-desc {
+    font-weight: 400;
+    font-size: 16px;
+    color: #656565;
+    margin-bottom: 35px;
+}
+
+.card-footer {
+    border: none;
+    border-radius: 15px 15px 20px 20px !important;
+    background: #FFFFFF;
+}
+
+.card-footer-one {
+    background: #FDC886;
+}
+
+.card-footer a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.btn-custom {
+    background: #FDC886;
+    border: none;
+    border-radius: 12px 12px 12px 12px !important;
+    width: 218px;
+    height: 56px;
+    font-weight: 600;
+}
+
+.btn-card-carousel {
+    width: 260px !important;
+    height: 70px !important;
+    font-size: 14pt;
+}
+
+.btn-card-most-pop {
+    width: 240px !important;
+}
+
+.btn-card-resto-near-you {
+    width: 240px !important;
+}
+
+.card-resto-one {
+    background: url(../img/resto1.png);
+    border-radius: 24px;
+    height: 450px;
+}
+
+.card-resto-two {
+    background: url(../img/resto2.png);
+    border-radius: 24px;
+    height: 450px;
+}
+
+.card-resto-three {
+    background: url(../img/resto3.png);
+    border-radius: 24px;
+    height: 450px;
+}
+
+.container-most-pop {
+    margin-top: 100px;
+}
+
+.container-near-you {
+    margin-top: 100px;
+}
+
+.box-resto {
+    background: #FFFFFF;
+    margin-top: 280px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 20px;
+    height: 130px;
+}
+
+#grey-text-500 {
+    color: #656565;
+    font-weight: 500;
+}
+
+#grey-text-600 {
+    color: #656565;
+    font-weight: 600;
+}
+
+#grey-text-400 {
+    color: #656565;
+    font-weight: 400;
+}
+
+#title-resto {
+    margin-top: 5px;
+    font-size: 22px;
+}
+
+#title-resto-14 {
+    margin-top: 5px;
+    font-size: 14pt;
+}
+
+.card-box-resto {
+    margin-top: 275px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 24px;
+}
+
+.card-near-you-one {
+    background: url(../img/near-you1.png);
+    border-radius: 25px;
+    height: 410px;
+}
+
+.card-near-you-two {
+    background: url(../img/near-you2.png);
+    border-radius: 25px;
+    height: 410px;
+}
+
+.card-near-you-three {
+    background: url(../img/near-you3.png);
+    border-radius: 25px;
+    height: 410px;
+}
+
+.card-box-near-you {
+    margin-top: 233px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 24px !important;
+}
+
+.btn-grey {
+    padding: 20px 24px;
+    background: #F2F2F2;
+    border-radius: 12px;
+    color: #656565 !important;
+    font-weight: 500 !important;
+}
+
+.btn-grey:hover {
+    color: #656565 !important;
+    font-weight: 500 !important;
+}
+
+.footer-left {
+    padding-left: 50px;
+}
+
+.card-footer-chef {
+    background: url(../img/chef.png);
+    border-radius: 20px;
+    height: 848px;
+    width: 560px;
+}
+
+.card-verify {
+    width: 160px;
+    height: auto;
+    border-radius: 24px;
+    left: 80%;
+}
+
+#title-verify {
+    margin-bottom: 4px;
+    font-size: 13.5pt;
+}
+
+.footer-right {
+    margin-left: 4rem;
+}
+
+.card-profile-details {
+    width: 545px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.link-profile-details {
+    color: #FDC886;
+    font-weight: 500;
+}
+
+.image-chef-card {
+    border-radius: 12px;
+    background-color: goldenrod;
+    margin-left: 23px;
+}
+
+.image-chef-card img {
+    object-fit: cover;
+    width: 90px;
+    height: 125px;
+    border-radius: 12px;
+}
+
+.card-box-chef {
+    margin-top: 275px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 180px;
+    width: 330px;
+    right: 15%;
+    top: 20%;
+}
+
+#detail-resto {
+    color: #FDC886;
+    font-weight: 600;
+    padding-top: 20px;
+}
+
+#grey-text-8d {
+    color: #8d8d8d;
+}
+
+#grey-text-65 {
+    color: #656565;
+}
+
+.btn-view-all-chef {
+    margin-top: 45px;
+}
+
+.card-box-carousel {
+    margin-top: 275px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 330px;
+    width: 440px;
+    right: 43%;
+    top: -30%;
+}
+
+.extra-cost {
+    font-size: 14pt;
+}
+
+.img-info {
+    height: auto !important;
+    width: 25px !important;
+}
+
+#detail-carousel {
+    color: #FDC886;
+    font-weight: 500;
+    padding-top: 20px;
+}
+
+#loc-carousel {
+    color: #656565;
+    font-size: 14pt;
+    font-weight: 400;
+}
+
+#title-carousel {
+    margin-top: 5px;
+    font-size: 19pt;
+}
+
+.idr-carousel {
+    font-size: 15.4pt;
+    margin-bottom: 6px;
+    color: #656565;
+}
+
+#rating-carousel {
+    font-size: 16pt;
+    font-weight: 600;
+    color: #FFB800;
+}
+
+.yellow-text {
+    color: #FFB800;
+    font-weight: 600;
+}
+
+#rating-carousel-value {
+    font-size: 14pt;
+    font-weight: 300;
+}
+
+.carousel-card-image {
+    height: auto !important;
+    width: 20px !important;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+input[type="search"] {
+    background-color: #FFFFFF;
+    border: none;
+}
+
+ul.underline {
+    list-style-type: none;
+}
+
+a.link-underline {
+    position: relative;
+    color: #232631;
+    text-decoration: none;
+}
+
+a.link-underline:visited {
+    color: #232631;
+    text-decoration: none;
+}
+
+a.link-underline:hover {
+    color: #232631;
+    text-decoration: none;
+}
+
+a.link-underline:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 5px;
+    left: 0;
+    background-color: #5A4FCF;
+    visibility: hidden;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+}
+
+li.active a.link-underline:before,
+a.link-underline:hover:before {
+    visibility: visible;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+}
+
+/* carousel */
+.owl-wrapper {
+    position: relative;
+    height: auto;
+    width: 105%;
+    right: 5%;
+}
+
+.cards {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+}
+
+.carousel-card {
+    display: flex;
+    justify-content: center;
+    height: 550px;
+    width: 1000px;
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius: 4px;
+    transform: scale(0.87);
+    transition: transform 0.4s 0.5s ease-out, opacity 1s ease;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.active .carousel-card {
+    box-shadow: 0 0px 1em rgba(0, 0, 0, 0.2);
+}
+
+.card__content {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    opacity: 1;
+}
+
+.active .card__content {
+    opacity: 1;
+    transition: opacity 0.4s ease;
+}
+
+.card__title {
+    display: inline-block;
+    font-size: 2em;
+    overflow: hidden;
+}
+
+.card__title span {
+    display: inline-block;
+    -webkit-animation: slide-up 0.4s 0s ease both;
+    animation: slide-up 0.4s 0s ease both;
+}
+
+.center.active .card__title span,
+.center.active.cloned:last-child .card__title span {
+    opacity: 1;
+    -webkit-animation: slide-down 0.4s 0.4s ease both;
+    animation: slide-down 0.4s 0.4s ease both;
+    transition: transform 0.3s 0.4s ease, opacity 0.3s ease;
+}
+
+.center .carousel-card {
+    opacity: 1;
+}
+
+.center .carousel-card:hover {
+    box-shadow: 0 8px 16px -5px rgba(0, 0, 0, 0.4);
+}
+
+.owl-carousel .owl-item img {
+    display: inline-block;
+}
+
+.owl-item:nth-of-type(1n) .carousel-card {
+    background: url(../img/image4.png);
+    border-radius: 24px;
+    height: 564px;
+    width: 1128px;
+}
+
+.owl-item:nth-of-type(2n) .carousel-card {
+    background: url(../img/image4.png);
+    border-radius: 24px;
+    height: 564px;
+    width: 1128px;
+}
+
+.owl-item:nth-of-type(3n) .carousel-card {
+    background: url(../img/image4.png);
+    border-radius: 24px;
+    height: 564px;
+    width: 1128px;
+}
+
+.owl-item:nth-of-type(4n) .carousel-card {
+    background: url(../img/image4.png);
+    border-radius: 24px;
+    height: 564px;
+    width: 1128px;
+}
